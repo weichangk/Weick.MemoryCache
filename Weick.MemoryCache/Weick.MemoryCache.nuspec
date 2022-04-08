@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Weick.MemoryCache</id>
+    <version>1.0.0</version>
+    <title>Weick.MemoryCache</title>
+    <authors>weichangk</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/weichangk/Weick.MemoryCache</projectUrl>
+    <description>Microsoft.Extensions.Caching.Memory Helper</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright @2022</copyright>
+    <tags>Caching Memory</tags>
+    <dependencies>
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="3.1.5" />
+    </dependencies>
+  </metadata>
+</package>
